@@ -1,0 +1,48 @@
+#summary One-sentence summary of this page.
+
+= Reference =
+ascii symbols
+
+
+= Examples =
+{{{
+
+    ┌──────┐       ┌──────┐
+    │Menu 1│       │Menu 2│
+┌───┘      └───────┴──────┴────┐
+│                              │
+│ this is some text for menu 1 │
+│                              │
+└──────────────────────────────┘
+
+
+    ┌──────┐       ┌──────┐
+    │Menu 1│       │Menu 2│
+┌───┴──────┴───────┘      └────┐
+│                              │
+│ this is some text for menu 2 │
+│                              │
+└──────────────────────────────┘
+
+
+
+Isn’t this so much better?
+
+It feels easier on the eyes too!
+
+ 
+
+Username: _______________
+
+Password: _______________
+
+ 
+
+     ┌─────────────────────────┐
+     │ Welcome to Web -1.0 !!! │
+     └─────────────────────────┘
+
+ 
+
+
+}}}
